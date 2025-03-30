@@ -1,8 +1,3 @@
-Sure! Here's a professional and clear `README.md` file you can use for your GitHub repository. You can modify the app name, features, or screenshots section later if needed:
-
----
-
-```markdown
 # 📱 Basic iOS App with React Native
 
 Welcome to the repository for my latest project — a **basic iOS application built using React Native**! This app serves as a foundational template and learning project to understand and explore the power of React Native in building mobile applications.
